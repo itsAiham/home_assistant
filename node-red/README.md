@@ -1,8 +1,8 @@
 # Node-Red
 
-A simple home assistant based on sensors placed in home and running on Lopy4 from pycom using WiFi.
-The signals are sent to pycom and then datacake, farther mode a node-red server running at the same time includes a discord-bot
-where you can interactive with.
+A simple home assistant based on sensors placed in home and running on Lopy4 from pycom using Wi-Fi.
+The signals are sent to pycom and then datacake, farther more a node-red server running at the same time includes a discord-bot
+where you can interact with.
 
 <br>
 
@@ -16,3 +16,7 @@ npm install node-red-contrib-chatbot-discord
 ```
 
 <br>
+
+
+![GitHub Logo](/images/node-red.png)
+Format: ![Alt Text](url)
