@@ -6,7 +6,7 @@ where you can interactive with.
 
 <br>
 
-# Extra node to download:
+### Extra node to download:
 
 ```posh
 npm install node-red-node-smooth
