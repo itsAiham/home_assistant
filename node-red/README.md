@@ -17,6 +17,4 @@ npm install node-red-contrib-chatbot-discord
 
 <br>
 
-
-![GitHub Logo](https://ibb.co/HGPSyQh)
-Format: ![Alt Text](url)
+<a href="https://ibb.co/HGPSyQh"><img src="https://i.ibb.co/0Y97L3s/node-red.png" alt="node-red schema" border="0"></a>
