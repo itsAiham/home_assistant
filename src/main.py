@@ -2,7 +2,7 @@ from machine import ADC
 from machine import Pin
 import pycom
 import machine
-import _thread  # To run mulitaple loops parallel
+import _thread  # To run multiple loops parallel
 import utime
 
 from src.lib.HC_SR04 import HCSR04
@@ -56,10 +56,10 @@ def short_sleep():
         if movment_sensor.get_status(): 
             print("Motion Detected")
             pybytes.send_signal(4, 1)
-            utime.sleep(5)
+            utime.sleep(5)  #  after detecting movement, sleep for 5 sec to give platforms chance to trace
             pybytes.send_signal(4, 0)
 
-        utime.sleep(1)
+        utime.sleep(1)  #  change sleep-sec after detecting movement based on your need
 
 
 def run_threads():
@@ -69,11 +69,8 @@ def run_threads():
 
 def main():
     run_threads()
-    # short_sleep()
-    # long_sleep()
-
-stop_threads = True
-
+    # short_sleep()     #  un-comment for debug
+    # long_sleep()      #  un-comment for debug
 
 if __name__ == "__main__":
     main()
