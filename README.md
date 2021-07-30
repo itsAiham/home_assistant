@@ -46,7 +46,7 @@
 
 ## Connecting
 
-<img srcsrc="https://i.ibb.co/wCp2rgC/project.png" width="700px" alt="Connection between sensord/LoPy4" border="0" style="display: block; margin: 0 auto">
+<img  src="https://i.ibb.co/wCp2rgC/project.png"  width="700px" alt="Connection between sensord/LoPy4" border="0" style="display: block; margin: 0 auto">
 
 \
 &nbsp;
