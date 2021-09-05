@@ -3,7 +3,10 @@
 \
 &nbsp;
 
-[Click for the DEMO!](https://www.youtube.com/watch?v=Ks9MIsQYBEU)
+[**Click for the DEMO!**](https://www.youtube.com/watch?v=Ks9MIsQYBEU)
+
+\
+&nbsp;
 
 ## Hardware you need:
 
