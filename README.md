@@ -3,7 +3,10 @@
 \
 &nbsp;
 
-[**Click for the DEMO!**](https://www.youtube.com/watch?v=Ks9MIsQYBEU)
+[**Click for the DEMO!**](https://www.youtube.com/watch?v=Ks9MIsQYBEU) 
+[**Have a look on the Doc!**](https://hackmd.io/Qp7zVcPzTZaCE8NyhSto-w)
+
+
 
 \
 &nbsp;
