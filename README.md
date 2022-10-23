@@ -4,7 +4,7 @@
 &nbsp;
 
 [**Click for the DEMO!**](https://www.youtube.com/watch?v=Ks9MIsQYBEU) <br>
-[**Have a look on the Doc!**](https://hackmd.io/Qp7zVcPzTZaCE8NyhSto-w)
+You may as well [**check the Doc!**](https://hackmd.io/Qp7zVcPzTZaCE8NyhSto-w)
 
 
 
